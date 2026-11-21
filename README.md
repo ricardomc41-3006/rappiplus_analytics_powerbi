@@ -11,12 +11,12 @@ Evaluar de forma integral el desempeño comercial, operativo y de producto de **
 ### 1. Resumen Ejecutivo: Desempeño Comercial 2025
 Monitoreo de KPIs financieros (Ingresos Totales, Ganancia Bruta/Neta e Inversión en Marketing), evolución mensual de ingresos frente a ganancia, desglose por categoría (`Electrónica`, `Hogar`, `Moda`) y curva de crecimiento acumulado (*Revenue YTD*) con filtro dinámico de periodo.
 
-![Resumen Ejecutivo RappiPlus](dashboard_overview_rappi.png)
+![Resumen Ejecutivo RappiPlus](dashboard_overview_rappiplus.png)
 
 ### 2. Detalle de Productos y Rentabilidad
 Análisis de volumen de unidades vendidas, gráfico de dispersión (Ingreso Total vs. Ganancia Neta por volumen) y tabla de rentabilidad por SKU con formato condicional para contrastar volumen de venta frente al margen real.
 
-![Detalle de Productos RappiPlus](dashboard_detalle_rappi.png)
+![Detalle de Productos RappiPlus](dashboard_detalle_rappiplus.png)
 
 ---
 
